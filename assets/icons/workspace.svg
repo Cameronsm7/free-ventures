@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <title>Layer 1</title>
+  <g id="Your_Icon">
+   <g>
+    <polygon points="90,35 10,35 0,50 100,50   " fill="#f39c12"/>
+   </g>
+   <g>
+    <rect height="36" width="5" y="50" x="91" fill="#f39c12"/>
+   </g>
+   <g>
+    <rect height="18" width="4" y="50" x="84" fill="#f39c12"/>
+   </g>
+   <g>
+    <path d="m32,50h-5v8h-18v-8h-5v36h5h18h1h4l4,-18v-18h-4l0,0zm-5,32h-18v-8h18v8l0,0zm0,-12h-18v-8h18v8l0,0z" fill="#f39c12"/>
+   </g>
+   <ellipse ry="1" rx="2" cy="54" cx="18" fill="#f39c12"/>
+   <ellipse ry="1" rx="2" cy="66" cx="18" fill="#f39c12"/>
+   <ellipse ry="1" rx="2" cy="78" cx="18" fill="#f39c12"/>
+  </g>
+ </g>
+</svg>
