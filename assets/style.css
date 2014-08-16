@@ -24,8 +24,36 @@ height: 100%;
 .img-scaled-h {
 height: 100%;
 }
+#application-body {
+    background: url('icons/debut_light.png');    
+}
+#freev-logo {
+    display: block;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#application-top {
+    height: 100px;
+    width: 100%;
+    font-size: 24px;
+    font-weight: 100;
+    margin-bottom: 25px;
+    color: rgba(255, 255, 255, 0.8);
+    background: #2f353f;
+}
 #application-page {
     background: url('icons/debut_light.png');    
+}
+#application-banner {
+    background: #de6868;
+    text-align: center;
+    padding: 13px 26px;
+    color: white;
+}
+#application-link {
+    position: absolute;
+    bottom: 5px;
 }
 #nav {
     position: fixed;
@@ -80,7 +108,7 @@ height: 100%;
 }
 #cover {
     position: relative;
-    height: 540px;
+    height: 400px;
     overflow: hidden;
 }
 #cover_background {
@@ -402,6 +430,8 @@ height: 100%;
     position: relative;
     display: inline-block;
     width: 180px;
+    margin-top: 15px;
+
 }
 .mentors-item-content {
     position: absolute;
