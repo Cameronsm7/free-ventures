@@ -83,6 +83,11 @@ height: 100%;
     height: 540px;
     overflow: hidden;
 }
+#cover-application {
+    position: relative;
+    height: 150px;
+    overflow: hidden;
+}
 #cover_background {
     width: 100%;
 }
@@ -502,29 +507,19 @@ height: 100%;
     padding: 40px 0px;
     position: relative;
 }
-.header-action-item {
-    width: 100%;
-    position: relative;
-}
+
 #action-apply {
     background: #de6868;
     text-align: left;
-}
-#header-action-apply {
-    background: #de6868;
 }
 #action-contact {
     background: #1abc9c;
     text-align: right;
 }
 .action-header {
+    margin: 20px 40px;
     font-size: 24px;
     font-weight: 100;
-}
-.header-action-header {
-    font-size: 24px;
-    font-weight: 100;
-    float:left;
 }
 .action-link {
     margin: 20px 30px;
@@ -535,14 +530,6 @@ height: 100%;
     display: inline-block;
     border-bottom: 1px dotted white;
 }
-.header-action-link {
-    font-size: 48px;
-    font-weight: 700;
-    display: inline;
-    text-align: right;
-    float:right;
-    border-bottom: 1px dotted white;
-}
 .action-icon {
     position: absolute;
     top: 50%;
@@ -550,15 +537,6 @@ height: 100%;
     width: 180px;
     opacity: 0.4;
 }
-
-.header-action-icon {
-    position: right;
-    top: 50%;
-    margin-top: 10px;
-    width: 180px;
-    opacity: 0.4;
-}
-
 #action-apply .action-icon {
     right: 30px;
 }
